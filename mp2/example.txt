@@ -1,0 +1,24 @@
+Enter your command(lsm, lsid, join or leave): Ask for join Time[1538953406.240959]: fa18-cs425-g73-01.cs.illinois.edu is joining.
+lsid
+Time[1538953410.0909734]: fa18-cs425-g73-01.cs.illinois.edu
+Ask for join Time[1538953115.8467593]: fa18-cs425-g73-02.cs.illinois.edu is joining.
+Ask for join Time[1538953117.9951828]: fa18-cs425-g73-03.cs.illinois.edu is joining.
+Ask for join Time[1538953119.4947963]: fa18-cs425-g73-04.cs.illinois.edu is joining.
+Ask for join Time[1538953121.123178]: fa18-cs425-g73-05.cs.illinois.edu is joining.
+Ask for join Time[1538953122.8910093]: fa18-cs425-g73-06.cs.illinois.edu is joining.
+lsm
+Time[1538953126.633977]: [('fa18-cs425-g73-01.cs.illinois.edu', 12, 1538953125.9010024), ('fa18-cs425-g73-02.cs.illinois.edu', 11, 1538953125.9332037), ('fa18-cs425-g73-03.cs.illinois.edu', 14, 1538953125.900105), ('fa18-cs425-g73-04.cs.illinois.edu', 19, 1538953125.9029346), ('fa18-cs425-g73-05.cs.illinois.edu', 15, 1538953125.9019616), ('fa18-cs425-g73-06.cs.illinois.edu', 8, 1538953125.9038942)]
+Enter your command(lsm, lsid, join or leave): Time[1538953188.3309364]: fa18-cs425-g73-05.cs.illinois.edu voluntarily left the group, current member_list: [('fa18-cs425-g73-01.cs.illinois.edu', 73, 1538953187.4461093), ('fa18-cs425-g73-02.cs.illinois.edu', 73, 1538953187.4451792), ('fa18-cs425-g73-03.cs.illinois.edu', 136, 1538953187.447058), ('fa18-cs425-g73-04.cs.illinois.edu', 202, 1538953187.4496038), ('fa18-cs425-g73-06.cs.illinois.edu', 237, 1538953187.450648)]
+lsm
+Time[1538953192.0930417]: [('fa18-cs425-g73-01.cs.illinois.edu', 77, 1538953191.4792247), ('fa18-cs425-g73-02.cs.illinois.edu', 77, 1538953191.4784088), ('fa18-cs425-g73-03.cs.illinois.edu', 144, 1538953191.4802), ('fa18-cs425-g73-04.cs.illinois.edu', 214, 1538953191.4819098), ('fa18-cs425-g73-06.cs.illinois.edu', 252, 1538953191.483834)]
+Enter your command(lsm, lsid, join or leave): Ask for join Time[1538953233.6698716]: fa18-cs425-g73-05.cs.illinois.edu is joining.
+lsm
+Time[1538953247.240373]: [('fa18-cs425-g73-01.cs.illinois.edu', 134, 1538953247.0029762), ('fa18-cs425-g73-02.cs.illinois.edu', 135, 1538953247.0018702), ('fa18-cs425-g73-03.cs.illinois.edu', 255, 1538953247.0043538), ('fa18-cs425-g73-04.cs.illinois.edu', 377, 1538953247.0070782), ('fa18-cs425-g73-05.cs.illinois.edu', 40, 1538953247.0061605), ('fa18-cs425-g73-06.cs.illinois.edu', 455, 1538953247.0083017)]
+Enter your command(lsm, lsid, join or leave): Time[1538953263.5525844]: fa18-cs425-g73-04.cs.illinois.edu has gone offline, current member_list: [('fa18-cs425-g73-01.cs.illinois.edu', 149, 1538953263.5525732), ('fa18-cs425-g73-02.cs.illinois.edu', 151, 1538953262.6772304), ('fa18-cs425-g73-03.cs.illinois.edu', 283, 1538953262.721278), ('fa18-cs425-g73-05.cs.illinois.edu', 82, 1538953262.8300931), ('fa18-cs425-g73-06.cs.illinois.edu', 497, 1538953262.8845398)]
+Time[1538953265.5728045]: fa18-cs425-g73-05.cs.illinois.edu has gone offline, current member_list: [('fa18-cs425-g73-01.cs.illinois.edu', 151, 1538953265.5727894), ('fa18-cs425-g73-02.cs.illinois.edu', 153, 1538953264.5713372), ('fa18-cs425-g73-03.cs.illinois.edu', 285, 1538953264.5703542), ('fa18-cs425-g73-06.cs.illinois.edu', 502, 1538953264.5731244)]
+Time[1538953266.5805185]: fa18-cs425-g73-02.cs.illinois.edu has gone offline, current member_list: [('fa18-cs425-g73-01.cs.illinois.edu', 152, 1538953266.5805054), ('fa18-cs425-g73-03.cs.illinois.edu', 286, 1538953265.579176), ('fa18-cs425-g73-06.cs.illinois.edu', 504, 1538953265.5813618)]
+lsm
+Time[1538953269.0631046]: [('fa18-cs425-g73-01.cs.illinois.edu', 155, 1538953268.6014771), ('fa18-cs425-g73-03.cs.illinois.edu', 289, 1538953268.5983675), ('fa18-cs425-g73-06.cs.illinois.edu', 510, 1538953268.6006966)]
+Enter your command(lsm, lsid, join or leave): Time[1538953292.7330997]: fa18-cs425-g73-06.cs.illinois.edu has gone offline, current member_list: [('fa18-cs425-g73-01.cs.illinois.edu', 177, 1538953292.7330859), ('fa18-cs425-g73-03.cs.illinois.edu', 312, 1538953291.7312284)]
+lsm
+Time[1538953296.2953744]: [('fa18-cs425-g73-01.cs.illinois.edu', 181, 1538953295.7555213), ('fa18-cs425-g73-03.cs.illinois.edu', 316, 1538953295.7572277)]
